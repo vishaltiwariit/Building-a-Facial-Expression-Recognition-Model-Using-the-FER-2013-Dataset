@@ -1,0 +1,2 @@
+Building-a-Facial-Expression-Recognition-Model-Using-the-FER-2013-Dataset
+Build a convolutional neural network (CNN) involving layers such as convolutional, pooling, and fully connected layers to automatically extract features from the images for recognizing facial expressions using the FER 2013 dataset. This includes preprocessing the data, designing and training the model, and evaluating its performance.
